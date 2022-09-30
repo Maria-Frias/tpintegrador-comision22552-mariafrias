@@ -1,0 +1,40 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+#logo{
+    font-size: medium;
+}
+
+#navbarSupportedContent {
+   white-space: nowrap;
+   font-size: smaller;
+}
+.containerp-5 {
+    position:absolute;
+    display: flex;
+  justify-content: right;
+  align-items: right;
+  width: 40%;
+}
+#titulo {
+    text-align: right;
+    color: white;
+    font-size: small;
+    width: 40%;
+}
+#texto{
+    text-align: right;
+    font-size:x-small;
+    line-height: 4vmin;    
+}
+#Buenosaires {
+    font-size:small;
+    text-align:justify;
+}
+.footer {
+    font-size: small;
+}
+
+
